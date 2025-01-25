@@ -34,7 +34,7 @@ KPI Cards – Total Revenue, Top Production Company, and Top Actor/Actress
 Highlights key performance indicators (KPIs) such as total revenue, highest-grossing production companies, and top-rated actors/actresses.
 Clustered Column Chart – Top 10 Production Companies
 
-Shows the top 10 production companies based on average ratings, visualizing the companies that produced the highest-rated movies.
+Shows the top 10 production companies outside India based on average ratings, visualizing the companies that produced the highest-rated movies.
 Technologies Used
 Power BI: For creating interactive dashboards and visualizations.
 DAX (Data Analysis Expressions): For performing advanced calculations and aggregations in Power BI.
